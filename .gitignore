@@ -1,0 +1,10 @@
+*.class
+*.iml
+target
+*.Cache
+*.exe
+*.sln
+*.pdb
+*.txt
+*.config
+

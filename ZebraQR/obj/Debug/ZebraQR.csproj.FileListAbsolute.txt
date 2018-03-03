@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\bin\Debug\ZebraQR.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\bin\Debug\ZebraQR.exe
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\bin\Debug\ZebraQR.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\obj\Debug\ZebraQR.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\obj\Debug\ZebraQR.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\obj\Debug\ZebraQR.exe
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\obj\Debug\ZebraQR.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\ZebraQR\ZebraQR\obj\Debug\ZebraQR.MainForm.resources
